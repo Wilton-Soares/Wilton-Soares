@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Wilton Soares
+#  Wilton Soares
 
 **`Desenvolvedora FullStack`**
 
